@@ -1,0 +1,6 @@
+{
+  "name": "Noor Qibla & Quran",
+  "description": "An offline-first companion with Qibla compass, readable Surahs with audio recitations, prayer times with GPS alerts, favorite verses, and Ramadan tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
